@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite3">
+	<test name="Sanity+Smoke+UI Test">
+		<classes>
+			<class name="com.testTypes.smoke.test" />
+			<class name="com.testTypes.sanity.test" />
+			<class name="com.testTypes.ui.test" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

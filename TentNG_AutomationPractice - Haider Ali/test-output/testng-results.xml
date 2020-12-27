@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-24T15:06:24 PKT" name="Suite" finished-at="2020-12-24T15:06:37 PKT" duration-ms="12538">
+    <groups>
+    </groups>
+    <test started-at="2020-12-24T15:06:24 PKT" name="Opera Test" finished-at="2020-12-24T15:06:31 PKT" duration-ms="7326">
+      <class name="com.seleniumGrid.tests.SeleniumGridParallelTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@932bc4a]" started-at="2020-12-24T15:06:24 PKT" name="setUp" finished-at="2020-12-24T15:06:31 PKT" duration-ms="7050" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4547]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="appleSite()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@932bc4a]" started-at="2020-12-24T15:06:31 PKT" name="appleSite" finished-at="2020-12-24T15:06:31 PKT" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleSite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@932bc4a]" started-at="2020-12-24T15:06:31 PKT" name="tearDown" finished-at="2020-12-24T15:06:31 PKT" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumGrid.tests.SeleniumGridParallelTest -->
+    </test> <!-- Opera Test -->
+    <test started-at="2020-12-24T15:06:24 PKT" name="Chrome Test" finished-at="2020-12-24T15:06:33 PKT" duration-ms="9239">
+      <class name="com.seleniumGrid.tests.SeleniumGridParallelTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@1eb5174b]" started-at="2020-12-24T15:06:24 PKT" name="setUp" finished-at="2020-12-24T15:06:33 PKT" duration-ms="9131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="appleSite()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@1eb5174b]" started-at="2020-12-24T15:06:33 PKT" name="appleSite" finished-at="2020-12-24T15:06:33 PKT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleSite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@1eb5174b]" started-at="2020-12-24T15:06:33 PKT" name="tearDown" finished-at="2020-12-24T15:06:33 PKT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumGrid.tests.SeleniumGridParallelTest -->
+    </test> <!-- Chrome Test -->
+    <test started-at="2020-12-24T15:06:24 PKT" name="Firefox Test" finished-at="2020-12-24T15:06:36 PKT" duration-ms="12343">
+      <class name="com.seleniumGrid.tests.SeleniumGridParallelTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@50ad3bc1]" started-at="2020-12-24T15:06:24 PKT" name="setUp" finished-at="2020-12-24T15:06:36 PKT" duration-ms="11551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5566]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="appleSite()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@50ad3bc1]" started-at="2020-12-24T15:06:36 PKT" name="appleSite" finished-at="2020-12-24T15:06:36 PKT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleSite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@50ad3bc1]" started-at="2020-12-24T15:06:36 PKT" name="tearDown" finished-at="2020-12-24T15:06:36 PKT" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumGrid.tests.SeleniumGridParallelTest -->
+    </test> <!-- Firefox Test -->
+    <test started-at="2020-12-24T15:06:24 PKT" name="MS Edge Test" finished-at="2020-12-24T15:06:37 PKT" duration-ms="12538">
+      <class name="com.seleniumGrid.tests.SeleniumGridParallelTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@69997e9d]" started-at="2020-12-24T15:06:24 PKT" name="setUp" finished-at="2020-12-24T15:06:37 PKT" duration-ms="12427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4548]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="appleSite()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@69997e9d]" started-at="2020-12-24T15:06:37 PKT" name="appleSite" finished-at="2020-12-24T15:06:37 PKT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleSite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumGrid.tests.SeleniumGridParallelTest@69997e9d]" started-at="2020-12-24T15:06:37 PKT" name="tearDown" finished-at="2020-12-24T15:06:37 PKT" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumGrid.tests.SeleniumGridParallelTest -->
+    </test> <!-- MS Edge Test -->
+  </suite> <!-- Suite -->
+</testng-results>

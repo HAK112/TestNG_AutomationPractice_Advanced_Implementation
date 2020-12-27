@@ -1,0 +1,18 @@
+To Download the Project: https://drive.google.com/file/d/1fhVH93acJJd8C-VjAuyIg-ZyQXG-4Yad/view?usp=sharing
+
+Steps:
+1) Extract the Folder
+2) Go to Eclipse and Import
+	File -> Open Project From File System -> Choose Directory (where you extracted the folder) -> Click on Finish
+3) To run the Project. Run the Test Runner Class in => src => com => automatioPractice => tests => TestsRunner.java
+
+Important Notice: Do not hover on any icon when the test is running as it will fail that specific test. You can either stop using your pc/laptop for ~3 mins or just click on the console area to keep your focus there and see the respectice output.
+
+Note:
+1) You can find the Test Cases in:
+resource => Test Cases => Automation Practice - Test Cases.xlsx
+2) You can find the Test Data in:
+resource => Test Data => testData.xlsx
+3) You can delete all the values of Test Result in all the Sheets if they already contain Pass/Fail values. Since after running the program you will be able to see whether the test has passsed or not.
+There are total 3 sheets, "Dashboard","SummerDresses","Checkout"
+The last one denotes the sign in data that will be used to sign in.

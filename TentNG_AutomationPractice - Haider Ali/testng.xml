@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+	<listeners>
+		<listener
+			class-name="com.automationPractice.utilities.TestListeners">
+		</listener>
+	</listeners>
+	<test name="signIn">
+		<classes>
+			<class name="com.automationPractice.tests.signIn.signIn" />
+		</classes>
+	</test>
+</suite>
